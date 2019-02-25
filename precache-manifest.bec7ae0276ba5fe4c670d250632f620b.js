@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/Table_test_react/static/media/icons.faff9214.woff"
   },
   {
-    "revision": "08be51ebec8cda5676b3",
+    "revision": "f6fcf38f8e4854f735ab",
     "url": "/Table_test_react/static/css/main.441ff9db.chunk.css"
   },
   {
@@ -28,6 +28,10 @@ self.__precacheManifest = [
     "url": "/Table_test_react/static/media/outline-icons.ef60a4f6.woff"
   },
   {
+    "revision": "9c74e172f87984c48ddf5c8108cabe67",
+    "url": "/Table_test_react/static/media/flags.9c74e172.png"
+  },
+  {
     "revision": "701ae6abd4719e9c2ada3535a497b341",
     "url": "/Table_test_react/static/media/outline-icons.701ae6ab.eot"
   },
@@ -36,16 +40,12 @@ self.__precacheManifest = [
     "url": "/Table_test_react/static/media/outline-icons.ad97afd3.ttf"
   },
   {
-    "revision": "9c74e172f87984c48ddf5c8108cabe67",
-    "url": "/Table_test_react/static/media/flags.9c74e172.png"
-  },
-  {
     "revision": "0ab54153eeeca0ce03978cc463b257f7",
     "url": "/Table_test_react/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "08be51ebec8cda5676b3",
-    "url": "/Table_test_react/static/js/main.08be51eb.chunk.js"
+    "revision": "f6fcf38f8e4854f735ab",
+    "url": "/Table_test_react/static/js/main.f6fcf38f.chunk.js"
   },
   {
     "revision": "e8c322de9658cbeb8a774b6624167c2c",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/Table_test_react/static/css/2.41b6e1ac.chunk.css"
   },
   {
-    "revision": "8d38174ce1d38ffc65efe401131111cb",
+    "revision": "fa6b62d660739beda8d309bec44e3f44",
     "url": "/Table_test_react/index.html"
   }
 ];
