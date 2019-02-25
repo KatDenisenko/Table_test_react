@@ -1,0 +1,16 @@
+.headerCell{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.phone{
+    text-align:center;
+}
+.ageWrapper {
+    justify-content: space-between;
+    display: flex;
+}
+.headerCell {
+    cursor: pointer;
+    margin:0;
+}
